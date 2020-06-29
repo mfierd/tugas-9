@@ -1,0 +1,7 @@
+D:\dion\github\19.11.2789\tugas9\tugas9\bin\Debug\tugas9.exe.config
+D:\dion\github\19.11.2789\tugas9\tugas9\bin\Debug\tugas9.exe
+D:\dion\github\19.11.2789\tugas9\tugas9\bin\Debug\tugas9.pdb
+D:\dion\github\19.11.2789\tugas9\tugas9\obj\Debug\tugas9.csprojAssemblyReference.cache
+D:\dion\github\19.11.2789\tugas9\tugas9\obj\Debug\tugas9.csproj.CoreCompileInputs.cache
+D:\dion\github\19.11.2789\tugas9\tugas9\obj\Debug\tugas9.exe
+D:\dion\github\19.11.2789\tugas9\tugas9\obj\Debug\tugas9.pdb
